@@ -1,1 +1,1 @@
-App del Clima utilizando una API y Skycons
+App del Clima utilizando una API & Skycons
